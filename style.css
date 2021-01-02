@@ -1,0 +1,8 @@
+body{
+    background: skyblue;
+    width: auto;
+}
+nav{
+    display: flex;
+    width: 100%;
+}
